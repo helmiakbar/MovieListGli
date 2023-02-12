@@ -7,7 +7,25 @@
 		<key>TestGLI.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>0</integer>
+			<integer>21</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>9F4D029729966FAA00A964DA</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>9F4D02AD29966FAB00A964DA</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>9F4D02B729966FAB00A964DA</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>

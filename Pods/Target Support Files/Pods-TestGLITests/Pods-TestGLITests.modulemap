@@ -1,0 +1,6 @@
+framework module Pods_TestGLITests {
+  umbrella header "Pods-TestGLITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module SQLogger {
+  umbrella header "SQLogger-umbrella.h"
+
+  export *
+  module * { export * }
+}

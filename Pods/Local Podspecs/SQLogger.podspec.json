@@ -1,0 +1,25 @@
+{
+  "name": "SQLogger",
+  "version": "0.1.1",
+  "summary": "Display Log for sehatq",
+  "homepage": "https://bitbucket.org/sehatQ/sqlogger",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Helmi Akbar": "helmi.akbar@sehatq.com"
+  },
+  "source": {
+    "git": "https://helmisehatq@bitbucket.org/sehatQ/sqlogger.git",
+    "tag": "0.1.1"
+  },
+  "swift_versions": "5.0",
+  "platforms": {
+    "ios": "11.0"
+  },
+  "source_files": "SQLogger/Classes/*",
+  "module_name": "SQLogger",
+  "frameworks": "UIKit",
+  "swift_version": "5.0"
+}
