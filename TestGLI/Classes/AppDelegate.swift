@@ -27,7 +27,6 @@ extension AppDelegate {
     func makeViewAndSetupAppearance() {
         window = UIWindow(frame: UIScreen.main.bounds)
         let homeVC = HomeViewController(nibName:"HomeViewController",bundle:nil)
-//        let homeVC = Injection().resolve(HomeViewController.self)
         let navVC = UINavigationController(rootViewController: homeVC)
         window?.rootViewController = navVC
         window?.makeKeyAndVisible()

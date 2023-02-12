@@ -15,15 +15,6 @@ class HomeViewController: BaseViewController {
     @IBOutlet weak var retryBtn: UIButton!
     var viewModel = Dependency().resolve(HomeViewModel.self)
     
-//    init() {
-//        super.init(nibName: String(describing: HomeViewController.self), bundle: nil)
-//    }
-//    
-//    required init?(coder aDecoder: NSCoder) {
-//        super.init(coder: aDecoder)
-//        fatalError("init(coder:) has not been implemented")
-//    }
-    
     override func viewDidLoad() {
         super.viewDidLoad()
         

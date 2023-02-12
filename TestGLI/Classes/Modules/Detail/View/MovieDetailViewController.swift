@@ -28,7 +28,6 @@ class MovieDetailViewController: BaseViewController {
     @IBOutlet weak var retryBtn: UIButton!
     
     var viewModel = Dependency().resolve(MovieDetailViewModel.self)
-//    var viewModel = Injection().resolve(MovieDetailViewModel.self)
     var movieId = 0
     var genderNames = [String]()
     
